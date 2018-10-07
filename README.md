@@ -1,1 +1,1 @@
-# smartInventoryiOS
+# myFitnessiOS
